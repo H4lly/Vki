@@ -1,1 +1,1 @@
-1. Ödev - Vücut Kitle İndeksi Hesaplama Aşağıdaki formüle göre vücut kitle endeksini hesaplayan program.FormülKilo (kg) / Boy(m) * Boy(m)Örnek ÇıktıLütfen boyunuzu (metre cinsinde) giriniz : 1,75 Lütfen kilonuzu giriniz : 75Vücut Kitle İndeksiniz : 24.5
+1. Ödev - Vücut Kitle İndeksi Hesaplama Aşağıdaki formüle göre vücut kitle endeksini hesaplayan program Formül Kilo (kg) / Boy(m) * Boy(m)Örnek ÇıktıLütfen boyunuzu (metre cinsinde) giriniz : 1,75 Lütfen kilonuzu giriniz : 75Vücut Kitle İndeksiniz : 24.5
